@@ -25,7 +25,7 @@
 | markdown-viewer | Zero-dependency, single-file Markdown viewer: drag-and-drop rendering, GFM + code highlighting, zero build | https://github.com/wewee888/markdown-viewer |
 | soundfield | SoundTest.pro's static web sound-level app: real-time dB estimation, waveform / spectrum / octave bands, CSV/PDF export | https://github.com/wewee888/soundfield |
 | RMS | Modern restaurant SaaS: offline-resilient front of house, real-time mid-platform event scheduling, integrated finance | https://github.com/wewee888/RMS |
-| new-term-radar | Catch the names AI people are about to search for, the day they appear | https://github.com/wewee888/new-term-radar |
+| new-term-radar | Catch the names AI people are about to search for, the day they appear — my adapted version of Jason Zhu's original (MIT), with added automation | https://github.com/wewee888/new-term-radar (original: https://github.com/zhuyansen/new-term-radar) |
 | LinkPulse | LinkPulse | https://github.com/wewee888/LinkPulse |
 | TodayDesk | 学习台 | https://github.com/wewee888/TodayDesk |
 | ai-psychology-ppt | AI psychology PPT project | https://github.com/wewee888/ai-psychology-ppt |
